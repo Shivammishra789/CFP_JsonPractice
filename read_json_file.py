@@ -5,5 +5,5 @@
 import json
 
 with open('sample2.json') as json_file:
-    ss = json.load(json_file)
-print(ss)
+    read_file = json.load(json_file)
+print(read_file)

@@ -29,4 +29,4 @@ print(person_details)
 print(type(person_details))
 
 with open("person_details.json","w") as json_file:
-    json.dump(person_details)
+    json_file.write(person_details)

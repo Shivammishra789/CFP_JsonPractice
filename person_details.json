@@ -1,0 +1,16 @@
+{
+    "leo": {
+        "name": "leo",
+        "address": "Harayana",
+        "email": null,
+        "phoneNo": "8974512456",
+        "married": false
+    },
+    "tim": {
+        "name": "tim",
+        "address": "Delhi",
+        "email": "tim@gmail.com",
+        "phoneNo": "8974512456",
+        "married": true
+    }
+}
